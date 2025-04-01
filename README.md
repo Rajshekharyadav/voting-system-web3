@@ -1,4 +1,4 @@
-# voting-system-web3
+
 # VotingWithRewards Smart Contract
 
 ## Overview
