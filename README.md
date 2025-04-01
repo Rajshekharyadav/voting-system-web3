@@ -1,5 +1,4 @@
 # voting-system-web3
-
 # VotingWithRewards Smart Contract
 
 ## Overview
@@ -31,11 +30,14 @@ This contract is written in Solidity (`^0.8.0`). Ensure you have a compatible Et
 
 To deploy the contract, use a Solidity-compatible Ethereum network and deploy it manually using your preferred tool.
 
+## Contract Address
+**Deployed Address:** `0xD5f98a8dFDbDc37f5f89F1847935A2a45de99e26`
+
 ## Usage
 1. Deploy the contract.
 2. Call `vote()` from an account that hasn't voted yet.
 3. Check total votes with `getVoteCount()`.
-4. Check token balance using `getTokenBalance(address)`.
+4. Check token balance using `getTokenBalance(address)`. 
 
 ## License
 This project is open-source and free to use.
